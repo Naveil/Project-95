@@ -1,0 +1,39 @@
+#title2{
+    text-align: center;
+    color:black;
+    padding-top: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+}
+#addroom{
+    border-radius: 5px;
+    width: 100px;
+    height: 40px;
+    font-size:  15px;
+    background-color:darkturquoise;
+}
+#logout{
+    border-radius: 5px;
+    width: 100px;
+    height: 40px;
+    font-size:  15px;
+    background-color:lightcoral;
+    float: right;
+}
+#body2{
+    background-color: beige;
+}
+#center{
+    padding-top: 100px;
+}
+#room_name{
+    border-radius: 10px;
+    height: 35px;
+    width: 550;
+    text-align: center;
+}
+#user_name{
+    text-align:center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+}
